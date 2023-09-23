@@ -28,3 +28,5 @@
         1. git add instructions_Git.md
         2. git commit "Created two branches"
         3. git checkout creator
+    1. git branch inspector
+  * ## __*Немного изменим ветку*__ <u>master</u> __*и зальем в неё ветку*__ <u>inspector</u>
