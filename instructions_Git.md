@@ -21,3 +21,10 @@
   11. Увидеть разницу между текущим файлом и закоммиченным файлом --> git diff
   12. Сохраняем изменения и коммитим
   13. Переход от одного коммита к другому --> git checkout
+  * ## __*Создаем паралельные ветки*__
+    1. git branch inspector
+    2. git branch creator
+      * #### Сохраняем, коммитим и переходим на ветку creator
+        1. git add instructions_Git.md
+        2. git commit "Created two branches"
+        3. git checkout creator
