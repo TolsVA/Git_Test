@@ -32,12 +32,15 @@
         1. git add instructions_Git.md
         2. git commit "Created two branches"
         3. git checkout creator
-<<<<<<< HEAD
     1. git branch inspector
   * ## __*Немного изменим ветку*__ <u>master</u> __*и зальем в неё ветку*__ <u>inspector</u>
-=======
   * ## __*Изменим ветку*__ creator __*сохраним и создадим пару коммитов (фиксаций)*__
     1. git add instructions_Git.md
     2. git commit -m "Commit 1 branch creator"
     3. git commit -m "Commit 2 branch creator"
->>>>>>> inspector
+* ## __*Список дополнительных команд*__
+   1. git log --graph --> журнал фиксаций в виде графика
+   2. git merge --> Слияние
+   3. git branch --> Список всех веток
+   4. git branch "ветка" --> добавить ветку
+   5. git branch -d "ветка" --> удалить ветку
