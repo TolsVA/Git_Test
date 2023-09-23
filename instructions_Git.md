@@ -28,3 +28,6 @@
         1. git add instructions_Git.md
         2. git commit "Created two branches"
         3. git checkout creator
+  * ## __*Изменим ветку*__ creator __*сохраним и создадим пару коммитов (фиксаций)*__
+    1. git add instructions_Git.md
+    2. git commit "Commit 1 branch creator"
