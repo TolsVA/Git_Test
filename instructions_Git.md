@@ -27,3 +27,4 @@
   * ## __*Изменим ветку*__ inspector __*сохраним и создадим пару коммитов (фиксаций)*__
     1. git add instructions_Git.md
     2. git commit -m "Commit 1 branch inspector"
+    3. git commit -m "Commit 2 branch inspector"
